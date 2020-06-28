@@ -1,0 +1,69 @@
+Task: 1, Test Name: search box, DOM Id: .custom-search-input, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 2, Test Name: search icon, DOM Id: .btn_search_mob, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 3, Test Name: personal icon, DOM Id: .access_link, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 4, Test Name: cart button, DOM Id: .cart_bt, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 5, Test Name: filter icon, DOM Id: .open_filters, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 6, Test Name: sort arrow, DOM Id: #sort, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 7, Test Name: applifashion image, DOM Id: #IMG____9, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 8, Test Name: offer image, DOM Id: #SPAN__ribbonoff__212, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 9, Test Name: favorite image, DOM Id: #I__tiheart__225, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 10, Test Name: compare to image, DOM Id: #I__ticontrols__229, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 11, Test Name: add to cart image, DOM Id: #I__tishopping__233, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Fail
+Task: 12, Test Name: type filter, DOM Id: #A__opened__75, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 13, Test Name: all type filters, DOM Id: #UL____77, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 14, Test Name: color filter, DOM Id: #A__opened__100, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 15, Test Name: all the colors, DOM Id: #UL____102, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 16, Test Name: brand filter, DOM Id: #A__opened__130, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 17, Test Name: All the brands, DOM Id: #UL____132, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 18, Test Name: price filter, DOM Id: #A__opened__160, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 19, Test Name: all the prices, DOM Id: #UL____162, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 20, Test Name: display days left, DOM Id: #DIV__countdown__216, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 21, Test Name: view grid, DOM Id: #I__tiviewgrid__202, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 22, Test Name: view list, DOM Id: #I__tiviewlist__204, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 23, Test Name: shoe with title and price, DOM Id: #DIV__griditem__211, Browser: Chrome, Viewport: 1200x700, Device: laptop, Status: Pass
+Task: 24, Test Name: search box, DOM Id: .custom-search-input, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 25, Test Name: search icon, DOM Id: .btn_search_mob, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Fail
+Task: 26, Test Name: personal icon, DOM Id: .access_link, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 27, Test Name: cart button, DOM Id: .cart_bt, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 28, Test Name: filter icon, DOM Id: .open_filters, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 29, Test Name: sort arrow, DOM Id: #sort, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 30, Test Name: applifashion image, DOM Id: #IMG____9, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 31, Test Name: offer image, DOM Id: #SPAN__ribbonoff__212, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 32, Test Name: favorite image, DOM Id: #I__tiheart__225, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 33, Test Name: compare to image, DOM Id: #I__ticontrols__229, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 34, Test Name: add to cart image, DOM Id: #I__tishopping__233, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 35, Test Name: type filter, DOM Id: #A__opened__75, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 36, Test Name: all type filters, DOM Id: #UL____77, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 37, Test Name: color filter, DOM Id: #A__opened__100, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 38, Test Name: all the colors, DOM Id: #UL____102, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 39, Test Name: brand filter, DOM Id: #A__opened__130, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 40, Test Name: All the brands, DOM Id: #UL____132, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 41, Test Name: price filter, DOM Id: #A__opened__160, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 42, Test Name: all the prices, DOM Id: #UL____162, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 43, Test Name: display days left, DOM Id: #DIV__countdown__216, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 44, Test Name: view grid, DOM Id: #I__tiviewgrid__202, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Fail
+Task: 45, Test Name: view list, DOM Id: #I__tiviewlist__204, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Fail
+Task: 46, Test Name: shoe with title and price, DOM Id: #DIV__griditem__211, Browser: Chrome, Viewport: 768x700, Device: laptop, Status: Pass
+Task: 47, Test Name: search box, DOM Id: .custom-search-input, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Fail
+Task: 48, Test Name: search icon, DOM Id: .btn_search_mob, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 49, Test Name: personal icon, DOM Id: .access_link, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 50, Test Name: cart button, DOM Id: .cart_bt, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 51, Test Name: filter icon, DOM Id: .open_filters, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 52, Test Name: sort arrow, DOM Id: #sort, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 53, Test Name: applifashion image, DOM Id: #IMG____9, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 54, Test Name: offer image, DOM Id: #SPAN__ribbonoff__212, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 55, Test Name: favorite image, DOM Id: #I__tiheart__225, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 56, Test Name: compare to image, DOM Id: #I__ticontrols__229, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 57, Test Name: add to cart image, DOM Id: #I__tishopping__233, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 58, Test Name: type filter, DOM Id: #A__opened__75, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 59, Test Name: all type filters, DOM Id: #UL____77, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 60, Test Name: color filter, DOM Id: #A__opened__100, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 61, Test Name: all the colors, DOM Id: #UL____102, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 62, Test Name: brand filter, DOM Id: #A__opened__130, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 63, Test Name: All the brands, DOM Id: #UL____132, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 64, Test Name: price filter, DOM Id: #A__opened__160, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 65, Test Name: all the prices, DOM Id: #UL____162, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 66, Test Name: display days left, DOM Id: #DIV__countdown__216, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
+Task: 67, Test Name: view grid, DOM Id: #I__tiviewgrid__202, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Fail
+Task: 68, Test Name: view list, DOM Id: #I__tiviewlist__204, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Fail
+Task: 69, Test Name: shoe with title and price, DOM Id: #DIV__griditem__211, Browser: Chrome, Viewport: 375x812, Device: iphone-x, Status: Pass
